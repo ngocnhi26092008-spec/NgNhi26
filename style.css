@@ -6,4 +6,9 @@ h1 {
   font-weight: bold;
   font-size: 20pt;
 }
+.noidung {
+  color: purple;
+  font-style: normal;
+  font-size: 14pt;
+}
 
