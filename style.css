@@ -1,7 +1,7 @@
 .container{
     display: flex;
     flex-direction: colum;
-    heigh: 100vh;
+    height: 100vh;
 }
 .header{
      flex: 20%;
@@ -9,15 +9,15 @@
 }
 .menu{
      flex: 5%;
-     background-color: light blue
+     background-color: dark blue
 }
 .content{
      flex: 70%;
-     background-color: light blue
+     background-color: white
 }
 .footer{
      flex: 5%;
-     background-color: light blue
+     background-color: pink
 }
 
 h1 {
