@@ -1,15 +1,15 @@
 .container{
     display: flex;
-    flex-direction: colum;
+    flex-direction: column;
     height: 100vh;
 }
 .header{
      flex: 20%;
-     background-color: light blue;
+     background-color: cyan;
 }
 .menu{
      flex: 5%;
-     background-color: dark blue;
+     background-color: darkgray;
      display: flex;
      align-items: center;
 }
