@@ -9,7 +9,7 @@
      background: url("images/logoNQ.png") center/100% 100%;
 }
 .menu{
-     flex:5%
+     flex:5%;
      background-color: lightblue;
 }
 .menu a{
