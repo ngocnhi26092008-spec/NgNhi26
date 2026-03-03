@@ -10,7 +10,7 @@
 }
 .menu{
      flex:5%
-    background-color: lightblue;
+     background-color: lightblue;
 }
 .menu a{
      padding: 15px 20px;
