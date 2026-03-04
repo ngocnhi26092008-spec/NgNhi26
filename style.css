@@ -6,7 +6,7 @@
 .header{
      flex: 20%;
      background-color: cyan;
-     background: url("images/logoNQ.png") center/100% 100%;
+     background: url("images/Logo NQ") center/100% 100%;
      aspect-radio: 6/1;
 }
 .menu{
