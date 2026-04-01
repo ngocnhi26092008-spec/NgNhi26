@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <strong>Cảm ơn bạn đã đăng ký</strong>
+  </head>
+  <body>
+    <p id="kq"></p>
+    <script>
+      let pp = new URLSearchParams(window.location.search);
+      let ten = pp.get("txtTen");
+      document.getElementById("kq").innerHTML = "Cảm ơn bạn " + ten 
+      + " đã góp ý <br><br>Chúng tôi ghi nhận phản hồi của bạn<br>" ;
+    </script>
+    <form action="Hoithao.html">
+      <input type = "submit" name = "cmd" value="Quay lại">
+    </form>
+  </body>
+</html>
